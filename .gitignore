@@ -21,3 +21,4 @@ tmp/
 log/
 logs/
 package-lock.json
+*.heapsnapshot
